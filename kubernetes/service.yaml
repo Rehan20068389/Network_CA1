@@ -8,5 +8,5 @@ spec:
     app: rehan-2003
   ports:
     - port: 80
-      targetPort: 3001
+      targetPort: 3001  
 
